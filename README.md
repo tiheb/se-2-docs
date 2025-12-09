@@ -1,4 +1,4 @@
-# Scaffold-ETH 2 Docs
+ # Scaffold-ETH 2 Docs
 
 This website contains Scaffold-ETH 2 Documentation and is built using [Docusaurus 2](https://docusaurus.io/).
 
